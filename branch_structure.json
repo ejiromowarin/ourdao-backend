@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "dependabot/github_actions/actions/checkout-7",
+    "dependabot/github_actions/actions/setup-node-7",
+    "dependabot/github_actions/dependencies-d884b4a175",
+    "dependabot/github_actions/docker/build-push-action-7",
+    "dependabot/github_actions/docker/setup-buildx-action-4",
+    "dependabot/npm_and_yarn/dependencies-20d2fd9e31",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "dependabot/github_actions/actions/checkout-7": "main",
+    "dependabot/github_actions/actions/setup-node-7": "main",
+    "dependabot/github_actions/dependencies-d884b4a175": "main",
+    "dependabot/github_actions/docker/build-push-action-7": "main",
+    "dependabot/github_actions/docker/setup-buildx-action-4": "main",
+    "dependabot/npm_and_yarn/dependencies-20d2fd9e31": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "dependabot/github_actions/actions/checkout-7",
+    "dependabot/github_actions/actions/setup-node-7",
+    "dependabot/github_actions/dependencies-d884b4a175",
+    "dependabot/github_actions/docker/build-push-action-7",
+    "dependabot/github_actions/docker/setup-buildx-action-4",
+    "dependabot/npm_and_yarn/dependencies-20d2fd9e31",
+    "origin"
+  ]
+}
